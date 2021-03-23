@@ -1,0 +1,49 @@
+    .container{
+        margin: 0 auto;
+        width: 500px;
+        border: 2px solid #ddd;
+        padding: 20px 20px 30px 30px;
+        background-color: #eee;
+    }
+    .tbl{
+        width: 100%;
+    }
+    .tbl_lst{
+        width: 300px;
+        padding: 5px;
+    }
+
+    .tbl_box tr td input{
+        width: 100%;
+        padding: 5px;
+    }
+.btn{
+    margin-left: 10px;
+    padding: 3px 20px;
+}
+.btnCancel{
+    margin-left: 241px;
+    padding: 3px 20px;
+}
+
+img{
+  max-width:270px;
+  margin-left: 5px;
+}
+input[type=file]{
+padding:10px;
+background:#666;
+}
+
+.left{
+    padding-left: 105px;
+}
+.head{
+    color: #555;
+    text-align: center;
+}
+
+.td_color{
+    color:#555;
+}
+
